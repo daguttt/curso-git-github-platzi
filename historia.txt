@@ -2,3 +2,5 @@ Esta es la historia de Freddy Vega,
 ha creado un curso Git y Github en Platzi y
 su edad es 33 años. Nació en Colombia y dice que
 vive en todo el mundo (xd).
+
+Hoy hablaremos de su vida
