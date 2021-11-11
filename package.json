@@ -1,0 +1,22 @@
+{
+  "name": "curso-git",
+  "version": "1.0.0",
+  "description": "Project to learn to use git as a pro dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dagutx/hyperblog.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "dagutx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dagutx/hyperblog/issues"
+  },
+  "homepage": "https://github.com/dagutx/hyperblog#readme"
+}
